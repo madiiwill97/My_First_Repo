@@ -1,0 +1,45 @@
+nav {
+    background-color:lightblue;
+    height: 75px;
+
+}
+
+.menuitem {
+    color: white;
+    background-color: grey;
+    display: inline-block;
+    height: 50px;
+    width: 75px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.content { 
+    height: 500px;
+
+}
+
+.sidebar {
+    width: 29%;
+    background-color: pink;
+    float: left;
+    height: 500px;
+    text-align: center;
+
+}
+
+.sideimage {
+    padding:5px;
+    width: 200px;
+    border: dotted white;
+
+}
+
+.details { 
+    width:70%;
+    height: 500px;
+    background-color: lightgrey;
+    align-content: center;
+    text-align: center;
+}
